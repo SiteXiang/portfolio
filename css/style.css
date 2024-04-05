@@ -199,15 +199,15 @@ header {
     text-align: center;
     color: #000000; /* 将字体颜色设置为奶白色 */
     padding: 20px;
-    background-color: rgba(255, 255, 255, 0.7);
+    background-color: rgba(255, 255, 255, 0.2);
 }
 
 .project-card.project2 .project-info a {
     display: inline-block;
     margin-top: 10px;
     padding: 10px 20px;
-    background-color: rgba(255, 255, 255, 0.8);
-    color: #000000; /* 将字体颜色设置为奶白色 */
+    background-color: rgba(0, 0, 0, 0.7);
+    color: #ffffff; /* 将字体颜色设置为奶白色 */
     text-decoration: none;
     font-size: 26px;
     font-weight: bold;
@@ -281,4 +281,16 @@ header {
     width: 100px; /* 或其他尺寸 */
     border-radius: 50%; /* 创建圆形头像 */
     margin-bottom: 10px; /* 添加一些间隔 */
+}
+.project-card.project3 .project-info {
+    position: absolute;
+    bottom: 35%;
+    left: 55%;
+    right: 0;
+    width: 30%; /* 调整项目信息卡片的宽度 */
+    margin: 0 auto; /* 水平居中项目信息卡片 */
+    text-align: center;
+    color: #000000; /* 将字体颜色设置为奶白色 */
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.4);
 }
