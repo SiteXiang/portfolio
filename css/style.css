@@ -284,7 +284,7 @@ header {
 }
 .project-card.project3 .project-info {
     position: absolute;
-    bottom: 35%;
+    bottom: 19%;
     left: 55%;
     right: 0;
     width: 30%; /* 调整项目信息卡片的宽度 */
